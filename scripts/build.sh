@@ -10,5 +10,5 @@ then
 	cd game
 #	cmake kjfrhdsklfhf				doesnt work and has nothing to build
 #	make						cmake machine broke :(
-	echo "cmake machine broke :("
+	echo "cmake hasnt been coded anyways. go make a contribution on github to help out."
 fi
